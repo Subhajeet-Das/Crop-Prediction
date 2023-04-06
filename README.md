@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-<p align="justify">Based on the 🧪Nitrogen(N), Phosphorus(P), Potassium(K), pH level of the soil and the Temperature🌡️, Humidity💦 & Rainfall🌧️ from the climate, this project tries to find out the cultivation of seasonal crops incorporating Logistic Regression for the classification purpose. This model achieved a total of 97% accuracy when fed with the above mentioned parameters.</p>
+<p align="justify">Based on the 🧪Nitrogen(N), Phosphorus(P), Potassium(K), pH level of the soil and the Temperature🌡️, Humidity💦 & Rainfall🌧️ from the climate, this project tries to find out the cultivation of seasonal crops incorporating Logistic Regression for the classification purpose. This model achieved a total of 99% accuracy when fed with the above mentioned parameters.</p>
 
 <br>
 
